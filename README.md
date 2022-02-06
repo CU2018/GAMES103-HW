@@ -1,4 +1,4 @@
-# GAMES103-HW
+# Physics-based Animation Practice Projects
 This repo contains the homework / labs from [GAMES103](http://games103.games-cn.org/) (taught by Dr. Huamin Wang). Files are in the format of unity packages.
 
 
