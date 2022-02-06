@@ -6,6 +6,9 @@ This repo contains the homework / labs from [GAMES103](http://games103.games-cn.
 # HW1: Angry Bunny
 Without using the built-in physics engine in Unity, a simple rigid body dynamics solver is implemented in this assignment ( in file `Rigid_Bunny.cs` ). The rigid body collision detection and response are handled by the impulse method and it is only able to behave correctly colliding with the floor and the wall.
 
-Demo video link: https://youtu.be/yfyHyNQffYE
+Demo video link: https://youtu.be/N0OpHHo_g_U
+
+## Physics-based Method vs Shape Matching
 
 ![hw1](assets/angryBunny.gif)
+
